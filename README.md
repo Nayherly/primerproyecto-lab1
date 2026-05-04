@@ -35,3 +35,11 @@ COMANDOS UTILIZADOS EN GIT
 #Verificar que estas en la rama Main --> git branch -M main
 #Subir proyecto a Github --> git push -u origin main
 #traer cambios de github --> git pull 
+
+
+
+CAPTURAS DE PANTALLA
+![Version git](imagenes/GIT_VERSION.jpg)
+![Pantalla principal](imagenes/pantalla_principal.jpg)
+![Github conectado exitosamente](imagenes/conectado_Exitosamente.jpg)
+![Comandos git para subir un cambio](imagenes/commit_mejorando_readme.jpg)
